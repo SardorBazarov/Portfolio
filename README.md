@@ -60,8 +60,8 @@ SardorBazarov/Readme.md
 📆 2018 -moment\ (Uncompleated)
 📍 **Tashkent University of Information and Technologies ** - Tashkent, Uzbekistan .
   
-📆 2020 -moment\ (Uncompleated)
-📍 **Tokyo Institute of Technology ** - Tokyo, Japan .
+  📆 2020 -moment\ (Uncompleated)
+  📍 **Tokyo Institute of Technology ** - Tokyo, Japan .
 
 ## Experience
 
@@ -84,14 +84,15 @@ SardorBazarov/Readme.md
 📍 **"ASAXIY BOOKS" MChJ** \ AsaxiyBooks - Tashkent, Uzbekistan  
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-  - 👨‍💻 **JS WEB DEVELOPER **\
-📆 2018 - 2020\
-📍 **ARBA SAVDO MCHJ** \ www.arba.uz - Tashkent, Uzbekistan  
+  - 👨‍💻 **Truck Dispatcher**\
+📆 June 2019 -moment\
+📍 **“ HASAN OGULLARI ULUSLARARASI NAKLIYECILIK “ MChJ** \ www.arba.uz - Tashkent, Uzbekistan  	-	
+
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-  - 👨‍💻 **JS WEB DEVELOPER **\
-📆 2018 - 2020\
-📍 **ARBA SAVDO MCHJ** \ www.arba.uz - Tashkent, Uzbekistan  
+  - 👨‍💻 **Logistic & Shipping Agent**\
+📆 2018 -moment\
+📍 **"ISMAIL SOPRAS" MChJ** \ www.arba.uz - Samarkand, Uzbekistan  
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
