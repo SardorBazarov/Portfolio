@@ -92,7 +92,9 @@ SardorBazarov/Readme.md
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
   - 👨‍💻 **Logistic & Shipping Agent**\
+	
 📆 2018 -moment\
+	
 📍 **"ISMAIL SOPRAS" MChJ** \ - Samarkand, Uzbekistan  
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
