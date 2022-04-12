@@ -79,18 +79,18 @@ SardorBazarov/Readme.md
 	 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-	- 👨‍💻 **Interpreter, Copyrighter **\	
+		- 👨‍💻 **Interpreter, Copyrighter **\	
 		📆 June 2020 - Sep 2020\
 		📍 **"ASAXIY BOOKS" MChJ** \ AsaxiyBooks - Tashkent, Uzbekistan  
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-  	- 👨‍💻 **Truck Dispatcher**\
+  		- 👨‍💻 **Truck Dispatcher**\
 	📆 June 2019 -moment\	
 	
 	📍 **“ HASAN OGULLARI ULUSLARARASI NAKLIYECILIK “ MChJ** \ - Tashkent, Uzbekistan	
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-  	- 👨‍💻 **Logistic & Shipping Agent**\
+  		- 👨‍💻 **Logistic & Shipping Agent**\
 	📆 2018 -moment\	
 	
 	📍 **"ISMAIL SOPRAS" MChJ** \ - Samarkand, Uzbekistan  
