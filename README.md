@@ -21,10 +21,10 @@ SardorBazarov/Readme.md
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 	 <a href="https://facebook.com/sardor_bazarov_m">
-    <img src="https://img.shields.io/badge/f-facebook-blue.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/f-Facebook-blue.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 	 <a href="https://t.me/Sardor_Bazarov">
-    <img src="https://img.shields.io/badge/f-facebook-blue.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
