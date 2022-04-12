@@ -85,13 +85,13 @@ SardorBazarov/Readme.md
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
   	- 👨‍💻 **Truck Dispatcher**\
-		📆 June 2019 -moment\	
-		📍 **“ HASAN OGULLARI ULUSLARARASI NAKLIYECILIK “ MChJ** \ - Tashkent, Uzbekistan	
+	📆 June 2019 -moment\	
+	📍 **“ HASAN OGULLARI ULUSLARARASI NAKLIYECILIK “ MChJ** \ - Tashkent, Uzbekistan	
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
   	- 👨‍💻 **Logistic & Shipping Agent**\
-		📆 2018 -moment\	
-		📍 **"ISMAIL SOPRAS" MChJ** \ - Samarkand, Uzbekistan  
+	📆 2018 -moment\	
+	📍 **"ISMAIL SOPRAS" MChJ** \ - Samarkand, Uzbekistan  
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
