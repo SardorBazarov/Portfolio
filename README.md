@@ -14,7 +14,7 @@ SardorBazarov/Readme.md
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/SardorBazarov/">
+  <a href="https://www.linkedin.com/in/sardorbazarov/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/sardor_bazarov_m">
@@ -47,7 +47,7 @@ SardorBazarov/Readme.md
   📫 How to reach me: <a href='mailto:sardorbazarovspirit@gmail.com'>sardorbazarovspirit@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/sardorbazarov/sardorbazarov"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a>hipsters and nerds have come here o/
 </p>
 
 <details>
@@ -73,15 +73,25 @@ SardorBazarov/Readme.md
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **JS WEB DEVELOPER **\
-📆 2018 - 2020\
-📍 **ARBA SAVDO MCHJ** \ www.arba.uz - Tashkent, Uzbekistan  
-  
+- 👨‍💻 **JS & OpenCart Developer, Copyrighter**\
+📆 2020 - 2021\
+📍 **"PIXYZ ALLIANCE" MChJ** \ www.bozor.com - Tashkent, Uzbekistan  
+	 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - jun/2021\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+- 👨‍💻 **Interpreter, Copyrighter **\
+📆 June 2020 - Sep 2020\
+📍 **"ASAXIY BOOKS" MChJ** \ AsaxiyBooks - Tashkent, Uzbekistan  
+
+<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
+  - 👨‍💻 **JS WEB DEVELOPER **\
+📆 2018 - 2020\
+📍 **ARBA SAVDO MCHJ** \ www.arba.uz - Tashkent, Uzbekistan  
+
+<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
+  - 👨‍💻 **JS WEB DEVELOPER **\
+📆 2018 - 2020\
+📍 **ARBA SAVDO MCHJ** \ www.arba.uz - Tashkent, Uzbekistan  
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
