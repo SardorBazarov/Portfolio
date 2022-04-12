@@ -3,21 +3,21 @@ SardorBazarov/Readme.md
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
+  Hi there 👋 I'm SardorBazarov 👨‍💻
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Curitiba, Brazil.
+  A WEB and JS FullStack developer from Samarkand, Uzbekistan.
 </p>
 
 
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://www.linkedin.com/in/SardorBazarov/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
+  <a href="https://instagram.com/sardor_bazarov_m">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -44,10 +44,10 @@ SardorBazarov/Readme.md
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:sardorbazarovspirit@gmail.com'>sardorbazarovspirit@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/sardorbazarov/sardorbazarov"></a> hipsters and nerds have come here o/
 </p>
 
 <details>
@@ -57,22 +57,25 @@ SardorBazarov/Readme.md
 ## Education
 
 - 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+📆 2018 -moment\ (Uncompleated)
+📍 **Tashkent University of Information and Technologies ** - Tashkent, Uzbekistan .
+  
+📆 2020 -moment\ (Uncompleated)
+📍 **Tokyo Institute of Technology ** - Tokyo, Japan .
 
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - moment\
-📍 **Xp Inc** - São Paulo/SP, Brazil
+- 👨‍💻 **JS WEB DEVELOPER **\
+📆 2018 - 2020\
+📍 **ARBA SAVDO MCHJ** \ www.arba.uz - Tashkent, Uzbekistan  
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - oct/2021\
-📍 **Avanade** - São Paulo/SP, Brazil
+- 👨‍💻 **JS WEB DEVELOPER **\
+📆 2018 - 2020\
+📍 **ARBA SAVDO MCHJ** \ www.arba.uz - Tashkent, Uzbekistan  
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
