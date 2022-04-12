@@ -185,19 +185,6 @@ SardorBazarov/Readme.md
 -->
 
 </details>
-
-<details>
-  <summary>📦 Packages</summary>
-  
-  
-
-| Name                 | A short summary                              | Install   | Downloads |
-| -------------------- | -------------------------------------------- | --------- | --------- |
-| [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
-| [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
-<!-- | Content Cell         | Content Cell                                | link | link | -->
-  
-</details>
   
 
 <!--
