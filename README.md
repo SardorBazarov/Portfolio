@@ -47,6 +47,9 @@ SardorBazarov/Readme.md
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   <img src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=white">
+  
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techwithaman001" alt="techwithaman001" /></a> </p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -211,10 +214,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techwithaman001" alt="techwithaman001" /></a> </p>
 
 
 
